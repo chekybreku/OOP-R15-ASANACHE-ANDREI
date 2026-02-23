@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asana\\source\\repos\\Lab1_R15_ASANACHEANDREI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC529BBE-6540-45C3-9977-B44BD0261BDF}|Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.vcxproj|C:\\Users\\asana\\source\\repos\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC529BBE-6540-45C3-9977-B44BD0261BDF}|Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.vcxproj|solutionrelative:Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC529BBE-6540-45C3-9977-B44BD0261BDF}|Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.vcxproj|C:\\Users\\asana\\source\\repos\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI\\ini.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC529BBE-6540-45C3-9977-B44BD0261BDF}|Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.vcxproj|solutionrelative:Lab1_R15_ASANACHEANDREI\\ini.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ini.txt",
+              "DocumentMoniker": "C:\\Users\\asana\\source\\repos\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI\\ini.txt",
+              "RelativeDocumentMoniker": "Lab1_R15_ASANACHEANDREI\\ini.txt",
+              "ToolTip": "C:\\Users\\asana\\source\\repos\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI\\ini.txt",
+              "RelativeToolTip": "Lab1_R15_ASANACHEANDREI\\ini.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-18T15:19:48.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1_R15_ASANACHEANDREI.cpp",
+              "DocumentMoniker": "C:\\Users\\asana\\source\\repos\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.cpp",
+              "RelativeDocumentMoniker": "Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.cpp",
+              "ToolTip": "C:\\Users\\asana\\source\\repos\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.cpp",
+              "RelativeToolTip": "Lab1_R15_ASANACHEANDREI\\Lab1_R15_ASANACHEANDREI.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-18T14:24:08.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
