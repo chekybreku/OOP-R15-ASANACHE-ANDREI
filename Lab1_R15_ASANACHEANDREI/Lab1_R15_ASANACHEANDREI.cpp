@@ -1,4 +1,4 @@
-#include <stdio.h>
+3#include <stdio.h>
 
 int char2int(char x[])
 {
